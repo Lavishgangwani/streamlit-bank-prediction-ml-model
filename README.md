@@ -1,5 +1,5 @@
 
-🚀 Excited to share my latest project: **Bank Loan Prediction Web App** 🏦💻
+🚀 Excited to share my latest project: **Bank Churn Prediction Web App** 🏦💻
 
 🔍 **Overview**:
 - This project predicts whether a bank customer will take a loan or not based on various features.
